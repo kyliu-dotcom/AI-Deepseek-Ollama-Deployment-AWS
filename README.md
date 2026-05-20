@@ -1,4 +1,4 @@
-Deploying DeepSeek on AWS EC2 with NVIDIA GPU Acceleration
+Deploying DeepSeek on AWS EC2 with NVIDIA GPU
 
 Prerequisites
 I assume you already have an AWS account and know how to launch EC2 instances, configure security groups, and create key pairs.
