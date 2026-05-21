@@ -157,6 +157,7 @@ nvidia-smi
 ```bash
 docker ps -a
 docker exec -it ollama ollama pull deepseek-r1:7b-qwen-distill-q4_K_M
+docker start ollama-webui
 ```
 
 ### 9. Restart Nginx
