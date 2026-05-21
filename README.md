@@ -1,6 +1,7 @@
 
 # Deployed DeepSeek Server on AWS EC2 with NVIDIA GPU 
 <img width="1484" height="856" alt="deepseek" src="https://github.com/user-attachments/assets/ea239e5d-5483-4ba4-a847-34d311079f0a" />
+
 ## Prerequisites
 
 - AWS account with EC2 access
