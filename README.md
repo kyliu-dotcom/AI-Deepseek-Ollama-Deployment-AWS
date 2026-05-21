@@ -1,4 +1,4 @@
-# Deploying DeepSeek on AWS EC2 with NVIDIA GPU Acceleration
+# Deployed DeepSeek Server on AWS EC2 with NVIDIA GPU 
 
 ## Prerequisites
 
